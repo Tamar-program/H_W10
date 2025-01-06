@@ -1,4 +1,8 @@
 version 1
+<<<<<<< HEAD
 version 2
 version 3😋
 version 4👧
+=======
+version 2
+>>>>>>> parent of 230e3e7 (version 3)
